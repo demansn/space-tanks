@@ -1,0 +1,14 @@
+{
+  "name": "space_tanks",
+  "version": "0.0.0",
+  "description": "Многопользовательская HTML5 игры про космические танки",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs"
+  },
+  "author": "demansn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
